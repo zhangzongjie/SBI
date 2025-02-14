@@ -1,1 +1,18 @@
- 
+# 配置文件
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Chrome用户数据
+chrome_profile/
+
+# Excel文件
+*.xlsx
+
+# 环境文件
+.env
+venv/
+.venv/ 
